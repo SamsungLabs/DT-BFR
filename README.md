@@ -220,11 +220,13 @@ Our project is mainly based on [BasicSR](https://github.com/XPixelGroup/BasicSR)
 ## Citation
 If you find this project useful in your work, please consider citing it:
 ```
-@inproceedings{kuai2025towards,
-    author={Kuai, Tianshu and Honari, Sina and Gilitschenski, Igor and Levinshtein, Alex},
-    title={Towards Unsupervised Blind Face Restoration using Diffusion Prior},
-    booktitle={WACV},
-    year={2025},
+@InProceedings{Kuai_2025_WACV,
+      author    = {Kuai, Tianshu and Honari, Sina and Gilitschenski, Igor and Levinshtein, Alex},
+      title     = {Towards Unsupervised Blind Face Restoration using Diffusion Prior},
+      booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+      month     = {February},
+      year      = {2025},
+      pages     = {1839-1849}
 }
 ```
 
